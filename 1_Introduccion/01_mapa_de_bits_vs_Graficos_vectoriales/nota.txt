@@ -1,0 +1,9 @@
+MAPA DE BITS:
+
+	- Esta conformado por pixeles.
+	- No son escalable de manera infinita.
+
+GRAFICO VECTORIAL:
+
+	- Son un conjunto de instrucciones matematicas.
+	- Son escalable de manera infinita.

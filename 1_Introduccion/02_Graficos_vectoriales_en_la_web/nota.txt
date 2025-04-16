@@ -1,0 +1,14 @@
+SVG:
+
+	- Scalable Vector Graphics.
+	- Formato XML.
+	- Recomendacion de la W3C.
+	- Soporte total de los navegadores.
+	- Pueden manipularse por CSS y JavaScript.
+
+FORMATO XML:
+	- Igual que HTML
+		a. Etiquetas de apertura y cierre.
+		b. Atributos.
+	-  Todas las etiquetas self closing deben cerrarse solas con /.
+	- Como dialecto XML, requiere que se defina el namespace (xmlns="http://www.w3.org/2000/svg"), de lo contrario el navegador no lo interpretara correctamente.

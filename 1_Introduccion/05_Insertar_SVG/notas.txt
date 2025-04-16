@@ -1,0 +1,5 @@
+INSERTAR SVG EN HTML:
+
+	- Como elemento img (HTML).
+	- Como background (CSS).
+	- Como elemento inline (SVG).

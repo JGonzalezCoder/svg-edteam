@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+}
+/* Forma 1 */
+.svg-img {
+	width: 45%;
+}
+/* Forma 2 */
+.svg-circle {
+	fill: blue;
+	width: 45%;
+}
