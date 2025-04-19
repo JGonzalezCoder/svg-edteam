@@ -1,0 +1,20 @@
+ATRIBUTOS DE RELLENO (FILL):
+
+	- fill: relleno.
+	- fill-opacity: opacidad del relleno.
+	- fill-rule: nonzero | evenodd
+		a.nonzero: pinta todo.
+		b. evenodd: separa huecos del area a pintar.
+
+FINALES DE LINEA:
+
+	- stroke-linecap: Es la final de la linea.
+		a. butt: 
+		b. round: Termina dibujando un semi-circulo.
+		c. square: Termina dibujando un cuadrado.
+	- stroke-linejoin: Dos lineas que se une.
+		a. miter: 
+		b. round: Las dos lineas se une con un semicirculo.
+		c. bevel: Hace un corte seco.
+	- stroke-miterlimit (n>1): Distancia de la interseccion de la lineas al final del trazo.
+

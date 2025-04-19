@@ -1,0 +1,7 @@
+ATRIBUTOS DE TRAZOS (STROKE):
+
+	- stroke (color de linea).
+	- stroke-width (grosor de linea).
+	- stroke-opacity (transparencia).
+	- stroke-dasharray (segementos).
+	- stroke-dashoffset (inicio del trazo si tiene segmentos).

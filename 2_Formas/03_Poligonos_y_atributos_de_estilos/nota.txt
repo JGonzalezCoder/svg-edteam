@@ -1,0 +1,9 @@
+ATRIBUTOS DE ESTILOS:
+
+	- A traves de atributos se pueden dar estilos de linea y fondo.
+	
+	- Son equivalentes a asignarlos por CSS.
+	
+	- El relleno (fill) por defecto es negro.
+	
+	- La linea (stroke) por defecto no tiene  color y debe asignarse.
